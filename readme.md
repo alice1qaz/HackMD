@@ -59,13 +59,15 @@ alice1qaz@gmail.com
 
 
 [运维SVN](https://103.68.61.93/svn)
-用户名：alice
-密码：alice!@#0609
+* .93,support部的,是把==測試完成==的包,放上去的
+* 用户名：alice
+* 密码：alice!@#0609
 
 
 [开发SVN](https://103.68.61.92/svn)
-用户名：alice
-密码：alice!@#0609
+* .92,開發部的,是用來把==開發完==的代碼打了包后發上去的
+* 用户名：alice
+* 密码：alice!@#0609
 
 ==SVN要下載tortoiseSVN==
 
@@ -127,6 +129,6 @@ NAS系統 : http://192.168.1.250:5000/
 ==Newer on the top==
 | Date       | Author | Description     |
 |:---------- |:------:|:--------------- |
-| 11/06/2021 | Alice  | add content |
+| 15/06/2021 | Alice  | modify content |
 | 10/06/2021 | Alice  | add content |
 | 09/06/2021 | Alice  | initial version |
